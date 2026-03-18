@@ -7,7 +7,7 @@ numpy
 pandas>=0.24
 pyarrow>=8.0.0
 pyyaml
-setuptools
+setuptools>=82
 scipy
 scikit-learn>=0.22.2
 tqdm
